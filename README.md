@@ -1,0 +1,3 @@
+- Resolvi fazer esse projeto com intuito de começar a aprender o Bootstrap
+- O desafio  aprender a utilizar o carrossel de imagens e o acordeon.
+- O desafio foi feito em 4h.
